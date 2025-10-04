@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000
-http://livesmart.robyang.dpdns.org:8278/SCTV/playlist.m3u8?tid=MABA8459856784598567&ct=19249&tsum=355af3a5c5bdf35204c638fb2076d199
+http://liveSmart.RobYang.dpdns.org:8278/?id=SCTV
