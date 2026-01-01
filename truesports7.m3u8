@@ -625,8 +625,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
-http://vps-4729499-x.dattaweb.com/flo/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|origin=https://portal.app.flow.com.ar
+#https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
+#http://vps-4729499-x.dattaweb.com/flo/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|origin=https://portal.app.flow.com.ar
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz2MvfQ/Sextreme.png" group-title="Adult",Sextreme
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -665,7 +665,6 @@ https://dish.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-#EXTINF:-1 tvg-id="Playboy.ar" tvg-name="Playboy.ar" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1" group-title="Adultos" ch-number="1001" type="channel",Playboy TV (18+)
-http://francope.elementfx.com/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|Origin=https://portal.app.flow.com.ar
-
+#EXTINF:-1 tvg-id="Playboy.ar" tvg-name="Playboy.ar" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1" group-title="Adult" ch-number="1001" type="channel",Playboy TV (18+)
+https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NjAyMTY1Iiwic2lwIjoiMTkwLjEyMi4xMzguMjAwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjZmM3ZWMxYmM2MDQxZTBlIiwic2Vzc2lvbl9pZCI6IjgzNjYyMDEzLTE3NTg0MjkzNjUtNTgxIiwiY2xpZW50X2lkIjoiNDE1NjE5NSIsImRldmljZV9pZCI6IjgzNjYyMDEzIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MV83b84TR1aKO0jSJtCKZLgrKJLHyoVz5CSM3VLv0qMqpaZ1uR1ZiUCL3x9Lq0T0MCfPhPH6-cflq3_LxyPbTw==/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|Origin=https://portal.app.flow.com.ar
 
