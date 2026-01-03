@@ -197,10 +197,8 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17938&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqV5mZXlbysaGnJwG9-4ecMqGmLyFoSXRkw&usqp=CAU" group-title="🏅 Champions TV",CTV 2 (Liga Italia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type= clearkey
 #KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
 https://parlay12.serv00.net/pidio/index.mpd?id=17939&type=dash
 
