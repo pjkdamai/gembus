@@ -686,23 +686,14 @@ https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="+18",Blu3 Hu5tler Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
-
 #EXTINF:-1 tvg-id="14" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="+18",Er0tic XxX Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
-https://dash4.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="+18", Er0tic X Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -754,10 +745,6 @@ https://webtvstream.bhtelecom.ba/pink_erotic7.m3u8
 https://webtvstream.bhtelecom.ba/pink_erotic8.m3u8
 
 
-#EXTINF:-1 tvg-id="RMC Sport Access HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSportAccess100x100gris.png" group-title="sfr france",RMC Sport Access HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47ac6c129bee0533b28450a2d36":"6ab322b896fefbdd2849bf38c499e661"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_SFRSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
 
 #EXTINF:-1 tvg-id="RMC Sport 1 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_1_grayscale.png" group-title="sfr france",RMC Sport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
