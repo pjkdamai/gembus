@@ -812,10 +812,10 @@ http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest.
 http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5-light.png" group-title="央视",CCTV-5 体育
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
+http://171.108.239.127:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+-light.png" group-title="央视",CCTV-5+ 体育赛事
-http://39.134.65.141/PLTV/88888888/224/3221225507/Cf.m3u8
+http://171.108.239.126:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
