@@ -922,7 +922,30 @@ https://a1xs.vip/1100042
 https://a1xs.vip/1100043
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hub4.png" group-title="EPL",Hub Premier 4 FHD
 https://a1xs.vip/1100044
-
+#EXTINF:-1  tvg-name="SuperSport PL FHD" tvg-id="EPL.za" tvg-logo="https://i.postimg.cc/GtqPXD4q/SSPL.png" group-title="World Sports",SuperSport PL FHD
+https://a1xs.vip/8000001
+#EXTINF:-1  tvg-name="SuperSport Football FHD" tvg-id="FOOTBALL.za" tvg-logo="https://pixvid.org/images/2025/01/23/SSFB.png" group-title="World Sports",SuperSport Football FHD
+https://a1xs.vip/8000004
+#EXTINF:-1  tvg-name="SuperSport Laliga FHD" tvg-id="LA.LIGA.za" tvg-logo="https://pixvid.org/images/2025/01/23/SSLlg.png" group-title="World Sports",SuperSport Laliga FHD
+https://a1xs.vip/8000005
+#EXTINF:-1  tvg-name="SuperSport PSL FHD" tvg-id="PSL.za" tvg-logo="https://devcdn.24.co.za/files/supersport/202.png" group-title="World Sports",SuperSport PSL FHD
+https://a1xs.vip/8000006
+#EXTINF:-1  tvg-name="SuperSport Tennis FHD" tvg-id="TENNIS.za" tvg-logo="https://pixvid.org/images/2025/01/23/supersport-tennis.png" group-title="World Sports",SuperSport Tennis FHD
+https://a1xs.vip/8000007
+#EXTINF:-1  tvg-name="SuperSport Grandstand FHD" tvg-id="GRANDSTAND.za" tvg-logo="https://pixvid.org/images/2025/01/22/SSgrandstand.png" group-title="World Sports",SuperSport Grandstand FHD
+https://a1xs.vip/8000002
+#EXTINF:-1  tvg-name="SuperSport Blitz FHD" tvg-id="BLITZ.za" tvg-logo="https://pixvid.org/images/2025/02/02/SSblizt.png" group-title="World Sports",SuperSport Blitz FHD
+https://a1xs.vip/8000003
+#EXTINF:-1  tvg-name="SuperSport Maximo 1 FHD" tvg-id="MAXIMO.1.za" tvg-logo="https://pixvid.org/images/2025/02/02/241.png" group-title="World Sports",SuperSport Maximo 1 FHD
+https://a1xs.vip/8000008
+#EXTINF:-1  tvg-name="SuperSport Action FHD" tvg-id="ACTION.za" tvg-logo="https://pixvid.org/images/2025/02/02/SSAction.png" group-title="World Sports",SuperSport Action FHD
+https://a1xs.vip/8000009
+#EXTINF:-1  tvg-name="SuperSport Golf HD" tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="World Sports",SuperSport Golf HD
+https://a1xs.vip/8000010
+#EXTINF:-1  tvg-name="SuperSport Cricket FHD" tvg-id="CRICKET.za" tvg-logo="https://pixvid.org/images/2025/02/05/SScricket.png" group-title="World Sports",Supersport Cricket FHD
+https://a1xs.vip/8000013
+#EXTINF:-1  tvg-name="SuperSport Rugby FHD" tvg-id="RUGBY.za" tvg-logo="https://pixvid.org/images/2025/02/07/SSrugby.png" group-title="World Sports",SuperSport Rugby FHD
+https://a1xs.vip/8000014
 
 --- 📺 UK Sports
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UK Sports",Sky Sports Main Event UHD
@@ -1295,8 +1318,17 @@ https://a1xs.vip/8000011
 #EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="Star Sports Select 2 FHD" tvg-logo="https://i.ibb.co/M597crs8/Star-select2.png" group-title="World Sports", Star Sports Select 2 FHD
 https://a1xs.vip/8000012
 
-
-
+#EXTINF:-1  tvg-name="USA Network SD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TheTVApp",USA Network SD
+https://v2.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=waVnYp6E8OJiFu9pYVowCQ&expires=1767851700&user_id=MVdwRndHT0xtOW5YU3U5cVpQMUF1RXFRT2JyWnJFeWRZd0pjSHpmeg==
+#EXTINF:-1  tvg-name="USA Network HD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TheTVApp",USA Network HD
+https://v3.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=sGUjXTxnLRYZQWJq1IJk5A&expires=1767851710&user_id=MVdwRndHT0xtOW5YU3U5cVpQMUF1RXFRT2JyWnJFeWRZd0pjSHpmeg==
+#EXTINF:-1 tvg-chno="9" tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Astro-Logo-500x281.png" group-title="TV",Astro Premier League
+http://109.61.81.147:1935/cdn7/4612/mpegts?token=856c055d95cdb7bedfa41be7b71b119c
+#EXTINF:-1 tvg-chno="171" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Burnley vs Man United (WATCHFTY)" tvg-logo="https://api.watchfooty.st/api/v1/poster/4813578" group-title="Live Events",[English Premier League] Burnley vs Man United (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://spiderembed.top/embed/4813578/burnley-manchester-united/easy/1
+#EXTVLCOPT:http-origin=https://spiderembed.top/embed/4813578/burnley-manchester-united/easy/1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://king.spider-on.top/playlist/easy/burnley-manchester-united/1/4813578/playlist.m3u8?hash=e8b1e0c5aa0795a709bf72ffa5740f0d&t=1767817881696
 
 
 
