@@ -1,11 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://live.catvod.com/live.php?id=TV3_mega
+http://47.110.137.212/smt.php?id=TV3_mega
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000001
-https://live.catvod.com/live.php?id=TV3
+http://47.110.137.212/smt.php?id=TV3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000002
-https://live.catvod.com/live.php?id=TV3_mega
+http://47.110.137.212/smt.php?id=TV3_mega
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000003
-https://live.catvod.com/live.php?id=TV3
+http://47.110.137.212/smt.php?id=TV3
+
 
