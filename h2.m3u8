@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://filex.tv:8080//live/shafiq02/1234/303529.ts
+http://filex.tv:8080//live/shafiq02/1234/303529.m3u8
+
 
 
 
