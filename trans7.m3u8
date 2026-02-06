@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000
-http://filex.me:8080/live/000003/000003/302311.m3u8
+http://103.146.197.250:25461/live/daeng/tmgrh/17.m3u8
+#http://filex.me:8080/live/000003/000003/302311.m3u8
