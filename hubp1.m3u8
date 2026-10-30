@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://my.wifi942.com:9981/mytv/test/index.php?id=709517&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1314077&extension=m3u8
 
